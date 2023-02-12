@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PiNI/n8/H9bigTgChKw0oroxLnQIjx+BU9QuTxp4HqLDMrzaKSObJRVp2Al7GKlFX/QUjUnJ9zfxhZfEffIYEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skonyali\\source\\repos\\KafkaWebApp\\KioskConsumer\\KioskConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skonyali\\.nuget\\packages\\confluent.kafka\\1.5.3\\confluent.kafka.1.5.3.nupkg.sha512",
+    "C:\\Users\\skonyali\\.nuget\\packages\\librdkafka.redist\\1.5.3\\librdkafka.redist.1.5.3.nupkg.sha512",
+    "C:\\Users\\skonyali\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\skonyali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
